@@ -1,0 +1,48 @@
+# Arquivos do sistema
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Ambientes virtuais
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# OS
+*.log
+.DS_Store
