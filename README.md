@@ -69,7 +69,7 @@ Se uma janela aparecer, o Tkinter está instalado corretamente.
 1. **Clone o repositório ou baixe o arquivo**
 
 ```bash
-git clone https://github.com/[seu-usuario]/pedra-papel-tesoura.git
+git clone https://github.com/carlosperfil/pedra-papel-tesoura.git
 cd pedra-papel-tesoura
 ```
 
